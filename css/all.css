@@ -11124,7 +11124,7 @@ i.fa-search {
 
 .wrap {
   height: 100vh;
-  background: url("img/login.jpg");
+  background-image: url("img/login.jpg");
   background-position: center 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -11161,7 +11161,7 @@ i.fa-solid.fa-user {
 
 .wrap {
   height: 100vh;
-  background: url("img/login.jpg");
+  background-image: url("img/login.jpg");
   background-position: center 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
