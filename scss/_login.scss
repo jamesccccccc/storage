@@ -1,11 +1,15 @@
-.wrap{
-    background-image: url('../img/login.jpg');
-    background-attachment: fixed;
+.wrap {
+    height: 100vh;
+    background-image: url(../img/login.jpg);
+    background-position: center 0;
     background-repeat: no-repeat;
-    background-position: center;
+    background-attachment: fixed;
     background-size: cover;
-    height: 100vh; 
-}
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+  }
 .user-box{
     border-radius: 10px;
     padding:80px 150px;

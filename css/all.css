@@ -11123,12 +11123,16 @@ i.fa-search {
 }
 
 .wrap {
-  background-image: url("../img/login.jpg");
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
   height: 100vh;
+  background-image: url(../img/login.jpg);
+  background-position: center 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
 }
 
 .user-box {
@@ -11158,11 +11162,15 @@ i.fa-solid.fa-user {
 
 .wrap {
   height: 100vh;
-  background-image: url("../img/login.jpg");
-  background-attachment: fixed;
+  background-image: url(../img/login.jpg);
+  background-position: center 0;
   background-repeat: no-repeat;
-  background-position: center;
+  background-attachment: fixed;
   background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
 }
 
 .register-box {

@@ -1,11 +1,15 @@
-.wrap{
+.wrap {
     height: 100vh;
-    background-image: url('../img/login.jpg');
-    background-attachment: fixed;
+    background-image: url(../img/login.jpg);
+    background-position: center 0;
     background-repeat: no-repeat;
-    background-position: center;
+    background-attachment: fixed;
     background-size: cover;
-}
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+  }
 .register-box{
     padding:0px 150px 10px 150px;
     border-radius: 10px;
