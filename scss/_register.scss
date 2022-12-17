@@ -1,12 +1,18 @@
+.wrap{
+    background-image: url('/img/login.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 .register-box{
     padding:0px 150px 10px 150px;
     border-radius: 10px;
-    margin-top: 20px;
+    margin:50px 0;
     background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 }
 @media screen and (max-width: 1240px) {
     .register-box{
-        
         padding:10px 100px;
     }
   }
