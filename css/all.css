@@ -11142,6 +11142,9 @@ i.fa-search {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
 }
 
+.footer-mt {
+  margin-top: 100px;
+}
 @media screen and (max-width: 1240px) {
   .user-box {
     margin-top: 20px;
@@ -11178,6 +11181,10 @@ i.fa-solid.fa-user {
   border-radius: 10px;
   margin: 50px 0;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+}
+
+.footer-mt {
+  margin-top: 100px;
 }
 
 @media screen and (max-width: 1240px) {
