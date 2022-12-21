@@ -11329,6 +11329,14 @@ i.fa-regular.fa-address-card {
   border-radius: 5px;
 }
 
+.cancel {
+  font-weight: bold;
+  border: none;
+  padding: 5px 60px;
+  background: #FF5119;
+  border-radius: 5px;
+}
+
 .Next-Btn {
   font-weight: bold;
   color: #fff;
@@ -11461,5 +11469,35 @@ i.fa-regular.fa-address-card {
 
 .consult-btn:hover {
   background-color: #FF5119;
+  color: #fff;
+}
+
+.form-check-temporary input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.form-check-temporary input:focus {
+  outline: none;
+}
+
+.form-check-other input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.form-check-other input:focus {
+  outline: none;
+  border-color: #6495ED;
+}
+
+.select-btn {
+  font-weight: bold;
+  padding: 10px 50px;
+  border-radius: 5px;
+  border: none;
+  background-color: #FF7F50;
   color: #fff;
 }/*# sourceMappingURL=all.css.map */
