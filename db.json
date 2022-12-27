@@ -1,5 +1,10 @@
 {
-  "users":[
-    
+  "users": [
+    {
+      "email": "gyt455398@gmail.com",
+      "password": "$2a$10$7vMiczIo0bwPkU/MElj/hetlDF0C4eXt8eYYq2/DYZsfAOozpArxS",
+      "myname": "james",
+      "id": 1
+    }
   ]
 }
