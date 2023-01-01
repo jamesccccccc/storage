@@ -5,6 +5,18 @@
       "password": "$2a$10$7vMiczIo0bwPkU/MElj/hetlDF0C4eXt8eYYq2/DYZsfAOozpArxS",
       "myname": "james",
       "id": 1
+    },
+    {
+      "email": "gyt4637337@gmail.com",
+      "password": "$2a$10$7mGhVEsZycGZYdBEeEDvcui9w.I4uCAhJxuxgP5Hyrdp31hg4Rz4G",
+      "myname": "judy",
+      "id": 2
+    },
+    {
+      "email": "zxc455398@gmail.com",
+      "password": "$2a$10$0enEvPJxa2JDpa2gM7xuTO2Sht./M3Y5BHv68G6PoNg1dIlzbkDk6",
+      "myname": "james",
+      "id": 3
     }
   ]
 }
